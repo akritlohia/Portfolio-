@@ -1,20 +1,20 @@
-# Portfolio-
-Personal portfolio website showcasing projects in web development, embedded systems, and real-time monitoring systems. Built with HTML, CSS, and JavaScript.
-# Navigate to your portfolio folder
-cd /path/to/your/portfolio
+# Portfolio
 
-# Initialize git
-git init
+Personal portfolio website showcasing projects in web development, embedded systems, and real-time monitoring systems.
 
-# Add your files
-git add index.html
+## 🌐 Live Site
+**[Visit My Portfolio](https://portfolio-aav9kohvh-akritlohia-8573s-projects.vercel.app)**
 
-# Commit
-git commit -m "Initial commit: portfolio website"
+## 📋 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
 
-# Add remote (replace USERNAME and REPO_NAME)
-git remote add origin https://github.com/USERNAME/portfolio.git
+## 🔗 Projects
+- AQI Monitoring Dashboard
+- Ball Balancing System
+- Weed Harvester Stability Analysis
 
-# Push to GitHub
-git branch -M main
-git push -u origin main
+---
+Made with ❤️ | Electrical Engineering @ NIT Delhi
